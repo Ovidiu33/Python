@@ -1,0 +1,1 @@
+[{'_note__idNota': '1', '_note__idStudent': '1', '_note__idDisciplina': '1', '_note__Valoarea': '10'}]

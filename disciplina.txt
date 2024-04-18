@@ -1,0 +1,1 @@
+[{'_Disciplina__idDisciplina': '2', '_Disciplina__numeDisciplina': 'romana', '_Disciplina__profesor': 'samoila'}]
